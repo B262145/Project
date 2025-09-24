@@ -1,4 +1,4 @@
-# *Planococcus citri* DNA Methylation and TE Analysis
+# Methylation-Mediated Regulation of Transposable Elements in *Planococcus citri* 
 
 This project investigates DNA methylation patterns in *Planococcus citri* with a focus on transposable elements (TEs). It integrates WGBS data, genomic annotations, and statistical analysis to quantify methylation levels, identify differentially methylated TEs, and explore sex- and developmental stage-specific patterns.
 
