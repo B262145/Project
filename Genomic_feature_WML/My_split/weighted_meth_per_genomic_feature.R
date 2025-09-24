@@ -18,7 +18,7 @@ library(doParallel)
 message("STEP 1: Reading in sample methylation count files...")
 
 # Define the directory path of the methylation data
-meth_dir <- "/mnt/loki/ross/scales/pseudococcidae/Planococcus_citri/Yuhan/WGBS_newassembly/Weighted_meth/no_MT/"
+meth_dir <- "/mnt/loki/ross/scales/pseudococcidae/Planococcus_citri/Yuhan/WGBS_newassembly/TE_WML/no_MT/"
 
 file.list <- list.files(meth_dir, pattern = "*_final_coverage.txt", full.names = TRUE)
 

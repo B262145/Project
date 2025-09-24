@@ -46,7 +46,7 @@ head(yall)
 # ---------------------------
 # 3. TE annotations
 # ---------------------------
-te_gr <- import("/mnt/loki/ross/scales/pseudococcidae/Planococcus_citri/Yuhan/WGBS_newassembly/diff_meth/filtered_no_unplaced_TE.gff")
+te_gr <- import("/mnt/loki/ross/scales/pseudococcidae/Planococcus_citri/Yuhan/WGBS_newassembly/TE_differential_methylation/filtered_no_unplaced_TE.gff")
 
 # ---------------------------
 # 4. Summarize CpG -> TE regions

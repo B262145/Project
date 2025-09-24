@@ -3,7 +3,7 @@ library(readr)
 library(doBy)
 library(dplyr)
 
-meth_dir <- "/mnt/loki/ross/scales/pseudococcidae/Planococcus_citri/Yuhan/WGBS_newassembly/Weighted_meth/no_MT/"
+meth_dir <- "/mnt/loki/ross/scales/pseudococcidae/Planococcus_citri/Yuhan/WGBS_newassembly/TE_WML/no_MT/"
 input_file <- file.path(meth_dir, "3rd_male_21_final_coverage.txt")
 sample_name <- "3rd_male_21"
 
